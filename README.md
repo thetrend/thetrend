@@ -27,6 +27,9 @@ I am a software engineer with over 3 years of experience, specializing in front-
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
-</a></p>### Badges<b>My GitHub Stats</b><a
+</a></p>
+
+### Badges
+<b>My GitHub Stats</b><a
 href="http://www.github.com/thetrend"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=thetrend&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
