@@ -7,7 +7,6 @@ Software Engineer
 I am a software engineer with over 3 years of professional experience, specializing in front-end development for enterprise-level applications. I work with technologies like React, Node.js, and TypeScript to build scalable, efficient solutions, while collaborating with cross-functional teams to deliver high-impact projects.
 
 *   🌍  I'm based in Connecticut, USA
-*   🖥️  See my portfolio at [graced.is](https://graced.is)
 
 ### Skills 
 <p align="left">
